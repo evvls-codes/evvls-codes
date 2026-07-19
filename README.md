@@ -1,4 +1,4 @@
-# Hey, I'm evvls 👋
+# Hey, I'm evvls also known as vibeslayer/vibeslayer-code 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=180&section=header&text=evvls&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
@@ -30,24 +30,13 @@ Previous GitHub account: [VibeSlayer-code](https://github.com/VibeSlayer-code)
 
 ---
 
-## Languages I Use
+## Languages I Use (Mainly)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,rust,js,go,kotlin,asm" />
 </p>
 
-| Language | Focus |
-|----------|-------|
-| C++ | Systems programming, performance, low-level development |
-| Python | AI/ML, automation, scripting, tooling |
-| Rust | Memory-safe systems and backend development |
-| JavaScript | Web development and applications |
-| Go | Backend services and infrastructure |
-| Kotlin | Android and JVM development |
-| Assembly | Reverse engineering and hardware understanding |
-| Carbon | Exploring next-generation programming concepts |
 
----
 
 ## What I Build
 
@@ -71,3 +60,9 @@ Previous GitHub account: [VibeSlayer-code](https://github.com/VibeSlayer-code)
 <p align="center">
 Building • Learning • Experimenting
 </p>
+
+--
+
+## More links
+
+--https://vibeslayer.space
