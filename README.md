@@ -53,7 +53,7 @@ Previous GitHub account: [VibeSlayer-code](https://github.com/VibeSlayer-code)
 
 ---
 
-## GitHub Stats
+## GitHub Stats (very bad cz new acc)
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evvls&theme=github_dark"/>
